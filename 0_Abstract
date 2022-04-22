@@ -1,0 +1,10 @@
+As we know that the modern electrical automation has made the life more sophisticated,easier and economical. This project is based on automatic door sensor system
+in a room or hall based on sensor. This project is applicable at such places where the people are busy and people are in large number.Therefore our project could 
+be benificial from the economical point of view.
+Our major goal is to provide the fully programmable automatic door sensor based on atmega328 microcontroller.
+This can be used to any door for security like important wadrobe door to make sure the door has closed properly.
+Sensor is a device which indicates or measure a physical property and records,indicates or otherwise responds to it.
+The door sensor is an essential component which is used in security system. The designing of these sensors can be done with two parts which are arrenged in parallel 
+to each other. So that the circuit can be formed. These sensor are very easy to install and portable.
+There are different types of door sensor available in the market.
+Most of these sensors use a reed switch and a magnet to decide the status of a door whether it is opened or closed.
