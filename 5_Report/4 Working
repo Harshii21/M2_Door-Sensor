@@ -2,6 +2,7 @@ This is the project Door Sensor. I have used atmega328,led,voltmeter,switch and 
 connected  for monitoring to switch and another end of switch is connected to ground. B1 is connected to a pull-up resistor of 100 ohm.
 This pull-up resistor is used so that the pins are not in floating state and another end of resistor is connected to 5 volts source.
 Two voltmeters are used where one is connected between B1 port and ground and another voltmeter is connected between led and port C6.
+Code created at Atmel studio is dumped to Atmega328.
 The atmega328 is loaded with logic program and switch is considered as a Door.
 
   When 5v supply is given and switch is in open state the supply passes to atmega328 it is in high state then the led starts blinking. When the switch is 
